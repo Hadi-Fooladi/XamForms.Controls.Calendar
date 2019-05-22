@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
    <metadata minClientVersion="2.8.1">
        <id>XamForms.Controls.Calendar</id>
-       <version>1.1.1</version>
+       <version>1.2.0</version>
        <title>Calendar Control Plugin for Xamarin.Forms</title>
-       <authors>RebeccaXam</authors>
+       <authors>Jijith Vasudevan</authors>
        <owners>RebeccaXam</owners>
-       <licenseUrl>https://github.com/rebeccaXam/XamForms.Controls.Calendar/blob/master/LICENSE</licenseUrl>
-       <projectUrl>https://github.com/rebeccaXam/XamForms.Controls.Calendar</projectUrl>
-      <iconUrl>https://raw.githubusercontent.com/rebeccaXam/XamForms.Controls.Calendar/master/icon.png</iconUrl>
+       <licenseUrl>https://github.com/jijithvasudevan/XamForms.Controls.Calendar/blob/master/LICENSE</licenseUrl>
+       <projectUrl>https://github.com/jijithvasudevan/XamForms.Controls.Calendar</projectUrl>
+      <iconUrl>https://raw.githubusercontent.com/jijithvasudevan/XamForms.Controls.Calendar/master/icon.png</iconUrl>
        <requireLicenseAcceptance>false</requireLicenseAcceptance>
        <description>
            Custom calendar control for Xamarin.Forms.
